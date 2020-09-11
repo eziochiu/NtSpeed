@@ -1,0 +1,12 @@
+Package: com.ezio.netspeed
+Name: NtSpeed
+Provides: com.ezio.netspeed
+Conflicts: com.ezio.netspeed
+Replaces: com.ezio.netspeed
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: 轻量级网速显示插件，支持iOS10-iOS13，支持A6-A13处理器，支持手势拖动
+Maintainer: eziochiu
+Author: eziochiu
+Section: Tweaks
